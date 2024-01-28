@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "blog_title": "Getting Started with Python",
+      "date": "2024-03-10",
+      "author_name": "Alice Johnson",
+      "image_url": "https://example.com/python_blog.jpg",
+      "time_to_read": 18
+    },
+    {
+      "id": 2,
+      "blog_title": "Introduction to Machine Learning",
+      "date": "2024-03-15",
+      "author_name": "Bob Smith",
+      "image_url": "https://example.com/ml_blog.jpg",
+      "time_to_read": 25
+    },
+    {
+      "id": 3,
+      "blog_title": "Healthy Eating Habits",
+      "date": "2024-03-20",
+      "author_name": "Emily Davis",
+      "image_url": "https://example.com/healthy_eating_blog.jpg",
+      "time_to_read": 12
+    },
+    {
+      "id": 4,
+      "blog_title": "Exploring Space Travel Technology",
+      "date": "2024-03-25",
+      "author_name": "David Wilson",
+      "image_url": "https://example.com/space_travel_blog.jpg",
+      "time_to_read": 30
+    },
+    {
+      "id": 5,
+      "blog_title": "The Art of Photography",
+      "date": "2024-04-01",
+      "author_name": "Grace Turner",
+      "image_url": "https://example.com/photography_blog.jpg",
+      "time_to_read": 22
+    },
+    {
+      "id": 6,
+      "blog_title": "Effective Time Management Techniques",
+      "date": "2024-04-05",
+      "author_name": "Daniel Brown",
+      "image_url": "https://example.com/time_management_blog.jpg",
+      "time_to_read": 15
+    },
+    {
+      "id": 7,
+      "blog_title": "Introduction to Blockchain Technology",
+      "date": "2024-04-10",
+      "author_name": "Sophia Miller",
+      "image_url": "https://example.com/blockchain_blog.jpg",
+      "time_to_read": 28
+    },
+    {
+      "id": 8,
+      "blog_title": "Healthy Work-Life Balance Tips",
+      "date": "2024-04-15",
+      "author_name": "Liam Harris",
+      "image_url": "https://example.com/work_life_balance_blog.jpg",
+      "time_to_read": 20
+    },
+    {
+      "id": 9,
+      "blog_title": "The World of Virtual Reality",
+      "date": "2024-04-20",
+      "author_name": "Olivia White",
+      "image_url": "https://example.com/virtual_reality_blog.jpg",
+      "time_to_read": 25
+    },
+    {
+      "id": 10,
+      "blog_title": "Tips for Creative Writing",
+      "date": "2024-04-25",
+      "author_name": "Ethan Turner",
+      "image_url": "https://example.com/creative_writing_blog.jpg",
+      "time_to_read": 18
+    }
+  ]
+  
