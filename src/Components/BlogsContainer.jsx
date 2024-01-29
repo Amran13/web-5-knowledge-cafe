@@ -17,10 +17,9 @@ const BlogsContainer = () => {
         setTimeToRead(timeToRead + selectedBlog.time_to_read)
         
     }
-    console.log(marked)
     return (
-        <div className='flex'>
-            <div className='grid grid-cols-1 gap-10'>
+        <div className='grid grid-cols-4 gap-10'>
+            <div className='col-span-3'>
                 {
                     blogs.map(blog => <Blog key={blog.id} blog={blog} handleMarkAsRead={handleMarkAsRead}></Blog>)
                 }
